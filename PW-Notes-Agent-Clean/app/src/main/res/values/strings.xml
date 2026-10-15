@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PW Notes Agent</string>
+    <string name="accessibility_desc">Used solely to verify that notes are only captured when you are viewing your approved study applications (such as Physics Wallah).</string>
+</resources>
